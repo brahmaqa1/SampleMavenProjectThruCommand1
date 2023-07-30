@@ -19,17 +19,9 @@ public class HomePageNavigationsTc02
 //	public static void main(String[] args) 
 	{
 
-		// addinge line -1
-		// addling line 2
-//		WebDriver driver = null;	
-//		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
-//		// . Represents current project folder name
-//
-//		//		//open chrome browser
-//		driver =  new ChromeDriver();
-//
-//		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
-//		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		// Tester 1- addinge line -1
+		// Tester 1 -addling line 2
+//		
 		
 		// call openBrowser()
 				BaseTest btest=  new BaseTest();
