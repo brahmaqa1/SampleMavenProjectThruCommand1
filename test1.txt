@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hi testet1
+=======
+hi testet1
+modified mastser
+modfiied -2
+>>>>>>> 777535a7bd66eafd99458f1d69cae0a4b06253b7
